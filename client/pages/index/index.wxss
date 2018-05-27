@@ -7,8 +7,8 @@ page {
 }
 
 .userinfo, .uploader, .tunnel {
-    margin-top: 40rpx;
-    height: 140rpx;
+    margin-top: 50rpx;
+    height: 200rpx;
     width: 100%;
     background: #FFF;
     border: 1px solid rgba(0, 0, 0, .1);
