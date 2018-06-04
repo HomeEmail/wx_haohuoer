@@ -27,7 +27,7 @@
     <!-- 上传图片测试 -->
     <view class="uploader">
         <view class="uploader-text" bindtap="doUpload">
-            <text>上传图片</text>
+            <text>上传图片1</text>
         </view>
         <view class="uploader-container" wx:if="{{imgUrl}}">
             <image

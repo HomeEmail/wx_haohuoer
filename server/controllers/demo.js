@@ -1,5 +1,5 @@
 module.exports = ctx => {
     ctx.state.data = {
-        msg : 'Hello World xx'
+        msg : 'Hello World 1xx'
     }
 }
