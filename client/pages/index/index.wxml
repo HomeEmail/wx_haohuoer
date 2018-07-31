@@ -8,7 +8,7 @@
             background-size="cover"
         ></image>
         <view>
-            <text class="userinfo-nickname">{{logged ? userInfo.nickName : '点击测试登录接口'}}</text>
+            <text class="userinfo-nickname">{{logged ? userInfo.nickName : '点击测试登录接2355388口1'}}</text>
             <text class="userinfo-nickname" wx:if="{{logged}}">{{userInfo.lastLoginTime}}</text>
         </view>
     </view>
